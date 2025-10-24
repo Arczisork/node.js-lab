@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Arczisork/node.js-lab/issues"
   },
-  "homepage": "https://github.com/Arczisork/node.js-lab#readme"
+  "homepage": "https://github.com/Arczisork/node.js-lab#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
