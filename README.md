@@ -1,6 +1,6 @@
-# Programowanie w językach skryptowych – laboratoria
+# Programowanie w językach skryptowych
 
-## GitHub Pages (host)
+## GitHub Pages
 
 Strona główna (menu laboratoriów):  
 https://arczisork.github.io/node.js-lab/
