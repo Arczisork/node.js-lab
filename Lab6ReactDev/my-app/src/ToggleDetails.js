@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import { useState } from "react";
+
 function ToggleDetails() {
   const [show, setShow] = useState(false);
 
@@ -11,4 +12,5 @@ function ToggleDetails() {
     </div>
   );
 }
+
 export default ToggleDetails;
