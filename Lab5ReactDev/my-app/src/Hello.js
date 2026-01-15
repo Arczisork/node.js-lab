@@ -1,4 +1,5 @@
-function HelloWithProps(props) {
- return <h1>Siemanko mordzia, {props.name}!</h1>;
+function Hello() {
+  return <h1>Artur Ziemczonek 11971</h1>;
 }
-export default HelloWithProps;
+
+export default Hello;
